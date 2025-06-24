@@ -25,7 +25,7 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
