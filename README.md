@@ -1,0 +1,1 @@
+# red-hat-enterprise-linux-automation-with-ansible-rh294
