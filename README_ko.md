@@ -13,7 +13,22 @@ Ansible 을 활용한 Red Hat Enterprise Linux 자동화 학습을 실습 위주
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
+
+## 연습
+
+|   인덱스 | 이름                                                   | 난이도   | 연습                                                                                                                                  |
+|----------|--------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🟢 Red Hat Enterprise Linux 에 Ansible 설치하기     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>실습 시작</a>         |
+|        2 | 📖 🔵 RHEL 에 Ansible 플레이북 구현하기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>실습 시작</a>            |
+|        3 | 📖 🔵 Ansible 을 이용한 RHEL 변수 및 사실 (Facts) 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>실습 시작</a>  |
+|        4 | 📖 🔵 RHEL 에서 Ansible 플레이북 실행 제어하기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>실습 시작</a>          |
+|        5 | 📖 🔵 Ansible 을 이용한 RHEL 파일 배포 및 관리         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>실습 시작</a>     |
+|        6 | 📖 🔵 RHEL 에서 복잡한 Ansible 플레이북 구조화하기     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>실습 시작</a>    |
+|        7 | 📖 🔵 RHEL 에서의 Ansible 역할 및 컬렉션               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>실습 시작</a>            |
+|        8 | 📖 🔵 RHEL 에서 Ansible 플레이북 및 호스트 문제 해결   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>실습 시작</a> |
+|        9 | 📖 🔵 Ansible 을 이용한 RHEL 관리 작업 자동화          | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>실습 시작</a>  |
 
 ## 환경
 
@@ -28,20 +43,6 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 - 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
 
 자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 연습
-
-|   인덱스 | 이름                                                | 난이도   | 연습                                                                                                                                  |
-|----------|-----------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Red Hat Enterprise Linux 에 Ansible 설치하기     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>실습 시작</a>         |
-|        2 | 📖 RHEL 에 Ansible 플레이북 구현하기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>실습 시작</a>            |
-|        3 | 📖 Ansible 을 이용한 RHEL 변수 및 사실 (Facts) 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>실습 시작</a>  |
-|        4 | 📖 RHEL 에서 Ansible 플레이북 실행 제어하기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>실습 시작</a>          |
-|        5 | 📖 Ansible 을 이용한 RHEL 파일 배포 및 관리         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>실습 시작</a>     |
-|        6 | 📖 RHEL 에서 복잡한 Ansible 플레이북 구조화하기     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>실습 시작</a>    |
-|        7 | 📖 RHEL 에서의 Ansible 역할 및 컬렉션               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>실습 시작</a>            |
-|        8 | 📖 RHEL 에서 Ansible 플레이북 및 호스트 문제 해결   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>실습 시작</a> |
-|        9 | 📖 Ansible 을 이용한 RHEL 관리 작업 자동화          | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>실습 시작</a>  |
 
 ## 더 보기
 
