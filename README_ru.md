@@ -13,7 +13,22 @@
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
+
+## Упражнения
+
+|   Индекс | Название                                                    | Сложность   | Практика                                                                                                                                       |
+|----------|-------------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🟢 Установка Ansible на Red Hat Enterprise Linux         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>Начать Лабораторию</a>         |
+|        2 | 📖 🔵 Реализация плейбука Ansible на RHEL                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>Начать Лабораторию</a>            |
+|        3 | 📖 🔵 Управление переменными и фактами в RHEL с помощью ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>Начать Лабораторию</a>  |
+|        4 | 📖 🔵 Управление выполнением плейбуков Ansible в RHEL       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>Начать Лабораторию</a>          |
+|        5 | 📖 🔵 Развертывание и управление файлами в RHEL с помощь... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>Начать Лабораторию</a>     |
+|        6 | 📖 🔵 Структурирование сложных плейбуков Ansible на RHEL    | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>Начать Лабораторию</a>    |
+|        7 | 📖 🔵 Роли и коллекции Ansible на RHEL                      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>Начать Лабораторию</a>            |
+|        8 | 📖 🔵 Устранение неполадок плейбуков и хостов Ansible на... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>Начать Лабораторию</a> |
+|        9 | 📖 🔵 Автоматизация задач администрирования RHEL с помощ... | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>Начать Лабораторию</a>  |
 
 ## Среда
 
@@ -28,20 +43,6 @@ LabEx - это интерактивная практическая обучаю�
 - Ассистент обучения Labby, построенный на последних моделях ИИ, обеспечивающий разговорный опыт обучения.
 
 Узнать больше о [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Упражнения
-
-|   Индекс | Название                                                 | Сложность   | Практика                                                                                                                                       |
-|----------|----------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Установка Ansible на Red Hat Enterprise Linux         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>Начать Лабораторию</a>         |
-|        2 | 📖 Реализация плейбука Ansible на RHEL                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>Начать Лабораторию</a>            |
-|        3 | 📖 Управление переменными и фактами в RHEL с помощью ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>Начать Лабораторию</a>  |
-|        4 | 📖 Управление выполнением плейбуков Ansible в RHEL       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>Начать Лабораторию</a>          |
-|        5 | 📖 Развертывание и управление файлами в RHEL с помощь... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>Начать Лабораторию</a>     |
-|        6 | 📖 Структурирование сложных плейбуков Ansible на RHEL    | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>Начать Лабораторию</a>    |
-|        7 | 📖 Роли и коллекции Ansible на RHEL                      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>Начать Лабораторию</a>            |
-|        8 | 📖 Устранение неполадок плейбуков и хостов Ansible на... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>Начать Лабораторию</a> |
-|        9 | 📖 Автоматизация задач администрирования RHEL с помощ... | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>Начать Лабораторию</a>  |
 
 ## Больше
 
