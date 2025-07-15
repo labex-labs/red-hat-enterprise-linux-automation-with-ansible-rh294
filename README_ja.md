@@ -13,7 +13,22 @@ Ansible を使用した Red Hat Enterprise Linux の自動化をハンズオン�
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
+
+## 演習
+
+|   インデックス | 名前                                                                 | 難易度   | 練習                                                                                                                                   |
+|----------------|----------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 📖 🟢 Red Hat Enterprise Linux への Ansible のインストール           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>ラボを開始</a>         |
+|              2 | 📖 🔵 RHEL 上に Ansible Playbook を実装する                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>ラボを開始</a>            |
+|              3 | 📖 🔵 Ansible を使用した RHEL での変数とファクトの管理               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>ラボを開始</a>  |
+|              4 | 📖 🔵 RHEL で Ansible Playbook の実行を制御する                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>ラボを開始</a>          |
+|              5 | 📖 🔵 Ansible を使用した RHEL でのファイル展開と管理                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>ラボを開始</a>     |
+|              6 | 📖 🔵 RHEL 上での複雑な Ansible Playbook の構造化                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>ラボを開始</a>    |
+|              7 | 📖 🔵 RHEL 上の Ansible ロールとコレクション                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>ラボを開始</a>            |
+|              8 | 📖 🔵 RHEL 上の Ansible プレイブックとホストのトラブルシューティング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>ラボを開始</a> |
+|              9 | 📖 🔵 Ansible による RHEL 管理タスクの自動化                         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>ラボを開始</a>  |
 
 ## 環境
 
@@ -28,20 +43,6 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 演習
-
-|   インデックス | 名前                                                              | 難易度   | 練習                                                                                                                                   |
-|----------------|-------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 Red Hat Enterprise Linux への Ansible のインストール           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>ラボを開始</a>         |
-|              2 | 📖 RHEL 上に Ansible Playbook を実装する                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>ラボを開始</a>            |
-|              3 | 📖 Ansible を使用した RHEL での変数とファクトの管理               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>ラボを開始</a>  |
-|              4 | 📖 RHEL で Ansible Playbook の実行を制御する                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>ラボを開始</a>          |
-|              5 | 📖 Ansible を使用した RHEL でのファイル展開と管理                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>ラボを開始</a>     |
-|              6 | 📖 RHEL 上での複雑な Ansible Playbook の構造化                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>ラボを開始</a>    |
-|              7 | 📖 RHEL 上の Ansible ロールとコレクション                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>ラボを開始</a>            |
-|              8 | 📖 RHEL 上の Ansible プレイブックとホストのトラブルシューティング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>ラボを開始</a> |
-|              9 | 📖 Ansible による RHEL 管理タスクの自動化                         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>ラボを開始</a>  |
 
 ## その他
 
