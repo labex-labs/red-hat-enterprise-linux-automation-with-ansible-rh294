@@ -13,7 +13,22 @@ Aprenda automatización de Red Hat Enterprise Linux utilizando Ansible a través
 ![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
+
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                        |
+|----------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🟢 Instalar Ansible en Red Hat Enterprise Linux          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>Iniciar Laboratorio</a>         |
+|        2 | 📖 🔵 Implementar un Playbook de Ansible en RHEL            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>Iniciar Laboratorio</a>            |
+|        3 | 📖 🔵 Gestionar Variables y Hechos en RHEL con Ansible      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>Iniciar Laboratorio</a>  |
+|        4 | 📖 🔵 Controlar la Ejecución de Playbooks de Ansible en ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>Iniciar Laboratorio</a>          |
+|        5 | 📖 🔵 Desplegar y Gestionar Archivos en RHEL con Ansible    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>Iniciar Laboratorio</a>     |
+|        6 | 📖 🔵 Estructuración de Playbooks Complejos de Ansible e... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>Iniciar Laboratorio</a>    |
+|        7 | 📖 🔵 Roles y Colecciones de Ansible en RHEL                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>Iniciar Laboratorio</a>            |
+|        8 | 📖 🔵 Solución de problemas de Playbooks y Hosts de Ansi... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>Iniciar Laboratorio</a> |
+|        9 | 📖 🔵 Automatizar Tareas de Administración de RHEL con A... | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>Iniciar Laboratorio</a>  |
 
 ## Entorno
 
@@ -28,20 +43,6 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                                        |
-|----------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Instalar Ansible en Red Hat Enterprise Linux          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>Iniciar Laboratorio</a>         |
-|        2 | 📖 Implementar un Playbook de Ansible en RHEL            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>Iniciar Laboratorio</a>            |
-|        3 | 📖 Gestionar Variables y Hechos en RHEL con Ansible      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>Iniciar Laboratorio</a>  |
-|        4 | 📖 Controlar la Ejecución de Playbooks de Ansible en ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>Iniciar Laboratorio</a>          |
-|        5 | 📖 Desplegar y Gestionar Archivos en RHEL con Ansible    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>Iniciar Laboratorio</a>     |
-|        6 | 📖 Estructuración de Playbooks Complejos de Ansible e... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>Iniciar Laboratorio</a>    |
-|        7 | 📖 Roles y Colecciones de Ansible en RHEL                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>Iniciar Laboratorio</a>            |
-|        8 | 📖 Solución de problemas de Playbooks y Hosts de Ansi... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>Iniciar Laboratorio</a> |
-|        9 | 📖 Automatizar Tareas de Administración de RHEL con A... | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>Iniciar Laboratorio</a>  |
 
 ## Más
 
