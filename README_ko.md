@@ -30,19 +30,9 @@ Ansible 을 활용한 Red Hat Enterprise Linux 자동화 학습을 실습 위주
 |        8 | 📖  RHEL 에서 Ansible 플레이북 및 호스트 문제 해결   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>실습 시작</a> |
 |        9 | 📖  Ansible 을 이용한 RHEL 관리 작업 자동화          | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>실습 시작</a>  |
 
-## 환경
+## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 비디오 없는 독점적인 실습 실험실로 엄격한 "실습을 통한 학습" 접근 방식.
-- 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
-- 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
-- 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
-
-자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
