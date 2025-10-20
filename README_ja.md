@@ -30,19 +30,9 @@ Ansible を使用した Red Hat Enterprise Linux の自動化をハンズオン�
 |              8 | 📖  RHEL 上の Ansible プレイブックとホストのトラブルシューティング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>ラボを開始</a> |
 |              9 | 📖  Ansible による RHEL 管理タスクの自動化                         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>ラボを開始</a>  |
 
-## 環境
+## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ。
-- ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
-- スキルツリーベースのシステムによる構造化されたコンテンツ組織。
-- 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
-
-詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
