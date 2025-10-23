@@ -18,21 +18,21 @@
 
 ## 练习
 
-|   序号 | 名称                                             | 难度   | 练习                                                                                                                                 |
-|--------|--------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 在 Red Hat Enterprise Linux 上安装 Ansible | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>开始实验</a>         |
-|      2 | 📖 🆓 在 RHEL 上实现 Ansible Playbook            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>开始实验</a>            |
-|      3 | 📖  使用 Ansible 在 RHEL 中管理变量和 Facts      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>开始实验</a>  |
-|      4 | 📖  在 RHEL 上控制 Ansible Playbook 执行         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>开始实验</a>          |
-|      5 | 📖  使用 Ansible 在 RHEL 上部署和管理文件        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>开始实验</a>     |
-|      6 | 📖  在 RHEL 上构建复杂的 Ansible Playbook        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>开始实验</a>    |
-|      7 | 📖  Ansible 角色和集合在 RHEL 上的应用           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>开始实验</a>            |
-|      8 | 📖  在 RHEL 上排查 Ansible Playbook 和主机问题   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>开始实验</a> |
-|      9 | 📖  使用 Ansible 自动化 RHEL 管理任务            | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>开始实验</a>  |
+|   序号 | 名称                                             | 难度   | 练习                                                                                                                                                                                          |
+|--------|--------------------------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 在 Red Hat Enterprise Linux 上安装 Ansible | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-install-ansible-on-red-hat-enterprise-linux-590544?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a>         |
+|      2 | 🧩 🆓 在 RHEL 上实现 Ansible Playbook            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ansible-implement-an-ansible-playbook-on-rhel-590552?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a>            |
+|      3 | 🧩  使用 Ansible 在 RHEL 中管理变量和 Facts      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a>  |
+|      4 | 🧩  在 RHEL 上控制 Ansible Playbook 执行         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/rhel-control-ansible-playbook-execution-on-rhel-590569?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a>          |
+|      5 | 🧩  使用 Ansible 在 RHEL 上部署和管理文件        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a>     |
+|      6 | 🧩  在 RHEL 上构建复杂的 Ansible Playbook        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ansible-structuring-complex-ansible-playbooks-on-rhel-590576?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a>    |
+|      7 | 🧩  Ansible 角色和集合在 RHEL 上的应用           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ansible-ansible-roles-and-collections-on-rhel-590574?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a>            |
+|      8 | 🧩  在 RHEL 上排查 Ansible Playbook 和主机问题   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a> |
+|      9 | 🧩  使用 Ansible 自动化 RHEL 管理任务            | 中级   | <a target='_blank' href='https://labex.io/zh/labs/ansible-automate-rhel-administration-tasks-with-ansible-590613?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>开始实验</a>  |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
