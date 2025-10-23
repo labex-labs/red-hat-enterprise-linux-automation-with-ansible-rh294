@@ -18,21 +18,21 @@ Ansible を使用した Red Hat Enterprise Linux の自動化をハンズオン�
 
 ## 演習
 
-|   インデックス | 名前                                                               | 難易度   | 練習                                                                                                                                   |
-|----------------|--------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 Red Hat Enterprise Linux への Ansible のインストール         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-install-ansible-on-red-hat-enterprise-linux-590544'>ラボを開始</a>         |
-|              2 | 📖 🆓 RHEL 上に Ansible Playbook を実装する                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-implement-an-ansible-playbook-on-rhel-590552'>ラボを開始</a>            |
-|              3 | 📖  Ansible を使用した RHEL での変数とファクトの管理               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560'>ラボを開始</a>  |
-|              4 | 📖  RHEL で Ansible Playbook の実行を制御する                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-control-ansible-playbook-execution-on-rhel-590569'>ラボを開始</a>          |
-|              5 | 📖  Ansible を使用した RHEL でのファイル展開と管理                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573'>ラボを開始</a>     |
-|              6 | 📖  RHEL 上での複雑な Ansible Playbook の構造化                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-structuring-complex-ansible-playbooks-on-rhel-590576'>ラボを開始</a>    |
-|              7 | 📖  RHEL 上の Ansible ロールとコレクション                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-ansible-roles-and-collections-on-rhel-590574'>ラボを開始</a>            |
-|              8 | 📖  RHEL 上の Ansible プレイブックとホストのトラブルシューティング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577'>ラボを開始</a> |
-|              9 | 📖  Ansible による RHEL 管理タスクの自動化                         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/ansible-automate-rhel-administration-tasks-with-ansible-590613'>ラボを開始</a>  |
+|   インデックス | 名前                                                               | 難易度   | 練習                                                                                                                                                                                            |
+|----------------|--------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 Red Hat Enterprise Linux への Ansible のインストール         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-install-ansible-on-red-hat-enterprise-linux-590544?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a>         |
+|              2 | 🧩 🆓 RHEL 上に Ansible Playbook を実装する                        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ansible-implement-an-ansible-playbook-on-rhel-590552?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a>            |
+|              3 | 🧩  Ansible を使用した RHEL での変数とファクトの管理               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ansible-manage-variables-and-facts-in-rhel-with-ansible-590560?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a>  |
+|              4 | 🧩  RHEL で Ansible Playbook の実行を制御する                      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-control-ansible-playbook-execution-on-rhel-590569?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a>          |
+|              5 | 🧩  Ansible を使用した RHEL でのファイル展開と管理                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ansible-deploy-and-manage-files-on-rhel-with-ansible-590573?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a>     |
+|              6 | 🧩  RHEL 上での複雑な Ansible Playbook の構造化                    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ansible-structuring-complex-ansible-playbooks-on-rhel-590576?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a>    |
+|              7 | 🧩  RHEL 上の Ansible ロールとコレクション                         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ansible-ansible-roles-and-collections-on-rhel-590574?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a>            |
+|              8 | 🧩  RHEL 上の Ansible プレイブックとホストのトラブルシューティング | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ansible-troubleshoot-ansible-playbooks-and-hosts-on-rhel-590577?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a> |
+|              9 | 🧩  Ansible による RHEL 管理タスクの自動化                         | 中級     | <a target='_blank' href='https://labex.io/ja/labs/ansible-automate-rhel-administration-tasks-with-ansible-590613?course=red-hat-enterprise-linux-automation-with-ansible-rh294'>ラボを開始</a>  |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
